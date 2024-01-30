@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dador.API", "Dador.API\Dador.API.csproj", "{63D3CF20-6A2A-4101-9366-64E38790AF80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Doador.Service", "Doador.Service\Doador.Service.csproj", "{F60432E1-C209-4340-8C18-3323DB3556E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Doador.Domain", "Doador.Domain\Doador.Domain.csproj", "{4ECB72DB-53F7-4D2C-A4EC-B37878DD2A65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Doador.Repository", "Doador.Repository\Doador.Repository.csproj", "{FCCF6029-C0BF-4321-8CEA-4CCCAE36FED9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63D3CF20-6A2A-4101-9366-64E38790AF80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63D3CF20-6A2A-4101-9366-64E38790AF80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63D3CF20-6A2A-4101-9366-64E38790AF80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63D3CF20-6A2A-4101-9366-64E38790AF80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F60432E1-C209-4340-8C18-3323DB3556E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F60432E1-C209-4340-8C18-3323DB3556E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F60432E1-C209-4340-8C18-3323DB3556E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F60432E1-C209-4340-8C18-3323DB3556E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4ECB72DB-53F7-4D2C-A4EC-B37878DD2A65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4ECB72DB-53F7-4D2C-A4EC-B37878DD2A65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4ECB72DB-53F7-4D2C-A4EC-B37878DD2A65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4ECB72DB-53F7-4D2C-A4EC-B37878DD2A65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCCF6029-C0BF-4321-8CEA-4CCCAE36FED9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCCF6029-C0BF-4321-8CEA-4CCCAE36FED9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCCF6029-C0BF-4321-8CEA-4CCCAE36FED9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCCF6029-C0BF-4321-8CEA-4CCCAE36FED9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {79434EB6-3652-4408-9479-23E07038D87C}
+	EndGlobalSection
+EndGlobal
