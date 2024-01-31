@@ -12,7 +12,9 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Controllers\" />
+    <ProjectReference Include="..\Doador.Domain\Doador.Domain.csproj" />
+    <ProjectReference Include="..\Doador.Repository\Doador.Repository.csproj" />
+    <ProjectReference Include="..\Doador.Service\Doador.Service.csproj" />
   </ItemGroup>
 
 </Project>
